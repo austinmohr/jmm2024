@@ -1,7 +1,7 @@
 # jmm2024
 GitHub for Mathematicians Test Repository
 
-If I want a bold word, just make it **bold**.
+If I want a italicized word, just make it *italicized*.
 
 <http://g4m.clontz.org>
 
